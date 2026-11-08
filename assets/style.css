@@ -1,0 +1,17 @@
+:root{--ink:#1a1a1a;--sub:#666;--rule:#d8d8d8;--accent:#1F3A5F;--bg:#fff;--link:#1a5fb4}
+@media (prefers-color-scheme:dark){:root{--ink:#e8e8e8;--sub:#a0a0a0;--rule:#3a3a3a;--accent:#9db8dc;--bg:#141414;--link:#7fb0ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;line-height:1.85;font-size:17px}
+main{max-width:680px;margin:0 auto;padding:20px 16px 48px}
+.meta{font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;font-size:13px;color:var(--sub);margin:0 0 8px}
+h1{font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;font-size:24px;line-height:1.45;margin:4px 0 16px;color:var(--accent)}
+figure{margin:0 0 20px}
+figure img{width:100%;height:auto;display:block;border-radius:4px}
+figcaption{font-family:sans-serif;font-size:11px;color:var(--sub);margin-top:4px}
+p{margin:0 0 1.1em;text-indent:1em}
+.source{border-top:1px solid var(--rule);margin-top:28px;padding-top:14px;font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;font-size:14px;line-height:1.6}
+.source a{color:var(--link);word-break:break-all}
+.nav{font-family:sans-serif;font-size:13px;margin-top:24px}
+.nav a{color:var(--link)}
+ul.list{padding-left:1.2em;font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif}
+ul.list li{margin:.5em 0}
