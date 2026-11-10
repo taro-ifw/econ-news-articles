@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-10
+- 1. 世界銀行のインフラ事業、統治の弱い国ほど高い収益率　2500件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-10/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. IMFの予算支援、低所得国の成長を押し上げ　外貨準備の積み上げは遅れる（https://taro-ifw.github.io/econ-news-articles/2026-11-10/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 資本規制や通貨危機の後にステーブルコインの利用が増加　188カ国を推計（https://taro-ifw.github.io/econ-news-articles/2026-11-10/3.html）　種類：記事／分野：国際金融／出典：VoxEU
+- 4. コンゴ東部、武装勢力が国家に代わり治安や徴税を担う　約250の集団が活動（https://taro-ifw.github.io/econ-news-articles/2026-11-10/4.html）　種類：記事／分野：開発／出典：VoxDev
+- 5. 経済制裁の後、制裁国から対象国へのM&Aが約半分に　負の効果は時間とともに拡大（https://taro-ifw.github.io/econ-news-articles/2026-11-10/5.html）　種類：記事／分野：地経学／出典：RIETI Discussion Papers
+
 ## 2026-11-09
 - 1. 援助削減、借り入れ頼みでは債務が持続不能に　税収確保との併用が最善　IMF論文（https://taro-ifw.github.io/econ-news-articles/2026-11-09/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
 - 2. 途上国の債務返済、IMFと世銀が最優先　民間銀行は最も後回し　119カ国を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-09/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
