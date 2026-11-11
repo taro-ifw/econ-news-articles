@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-11
+- 1. 革新的な事業ほど成果が高い傾向　世界銀行グループの評価7500件超を生成AIで分析（https://taro-ifw.github.io/econ-news-articles/2026-11-11/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 災害後のIMF緊急融資、GDPの回復を早める　乗数は1超、債務の増加に課題（https://taro-ifw.github.io/econ-news-articles/2026-11-11/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 米国の制裁下のベネズエラ、原油の生産量当たりのガス燃焼が倍以上に　VoxDev（https://taro-ifw.github.io/econ-news-articles/2026-11-11/3.html）　種類：記事／分野：地経学／出典：VoxDev
+- 4. メキシコの鉄道建設、米国への移住を四倍に　廃線後も同じ移住先への流れが存続（https://taro-ifw.github.io/econ-news-articles/2026-11-11/4.html）　種類：記事／分野：開発／出典：VoxEU
+- 5. 米関税、途上国の工業品に農産品の1.7倍　CEPII「一次産品への特化を促す」（https://taro-ifw.github.io/econ-news-articles/2026-11-11/5.html）　種類：記事／分野：貿易／出典：Le Blog du CEPII
+
 ## 2026-11-10
 - 1. 世界銀行のインフラ事業、統治の弱い国ほど高い収益率　2500件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-10/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. IMFの予算支援、低所得国の成長を押し上げ　外貨準備の積み上げは遅れる（https://taro-ifw.github.io/econ-news-articles/2026-11-10/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
