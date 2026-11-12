@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-12
+- 1. 紛争国の電力整備の割高なコスト、事業の経験で縮小　イエメンの太陽光923件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-12/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 政府の隠れ債務が発覚すると借り入れの上乗せ金利が持続的に上昇　7件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-12/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
+- 3. 供給網に深く組み込まれた日本企業ほど　経済安全保障の規制を支持する傾向（https://taro-ifw.github.io/econ-news-articles/2026-11-12/3.html）　種類：記事／分野：地経学／出典：RIETI Discussion Papers
+- 4. 中国の輸出先の転換、輸出品が似た国ほど打撃とは限らず　Antràs氏ら（https://taro-ifw.github.io/econ-news-articles/2026-11-12/4.html）　種類：記事／分野：貿易／出典：VoxEU
+- 5. ドルの優位は崩れにくい　Bordo氏ら、150年の国際通貨体制から分析（https://taro-ifw.github.io/econ-news-articles/2026-11-12/5.html）　種類：記事／分野：地経学／出典：VoxEU
+
 ## 2026-11-11
 - 1. 革新的な事業ほど成果が高い傾向　世界銀行グループの評価7500件超を生成AIで分析（https://taro-ifw.github.io/econ-news-articles/2026-11-11/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 災害後のIMF緊急融資、GDPの回復を早める　乗数は1超、債務の増加に課題（https://taro-ifw.github.io/econ-news-articles/2026-11-11/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
