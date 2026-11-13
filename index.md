@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-13
+- 1. 道路の改良で地方自治体の税収が倍以上に　ルワンダで12年分の行政記録を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-13/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 気候災害で高まる国の債務不履行リスク　援助で適応力を高める予算の目安を提示（https://taro-ifw.github.io/econ-news-articles/2026-11-13/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 中国の報復関税にも原産地偽装による回避　米中の分断を実際より大きく見せる（https://taro-ifw.github.io/econ-news-articles/2026-11-13/3.html）　種類：記事／分野：貿易／出典：VoxEU
+- 4. 日本企業、電子部品や製造装置で上流の地位を維持　半導体では後退　RIETI（https://taro-ifw.github.io/econ-news-articles/2026-11-13/4.html）　種類：記事／分野：貿易／出典：RIETI Discussion Papers
+- 5. 男女平等の意識を育てる学校の授業、インドで年四百万人に拡大　実験から行政の制度へ（https://taro-ifw.github.io/econ-news-articles/2026-11-13/5.html）　種類：記事／分野：開発／出典：VoxDev
+
 ## 2026-11-12
 - 1. 紛争国の電力整備の割高なコスト、事業の経験で縮小　イエメンの太陽光923件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-12/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 政府の隠れ債務が発覚すると借り入れの上乗せ金利が持続的に上昇　7件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-12/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
