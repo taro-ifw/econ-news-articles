@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-14
+- 1. アフリカの行政改革、成果主義の施策で完全実施は4割　世界銀行の事業を検証（https://taro-ifw.github.io/econ-news-articles/2026-11-14/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 低所得国の債務危機の予測、単純な統計モデルが機械学習を上回る　世界銀行（https://taro-ifw.github.io/econ-news-articles/2026-11-14/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
+- 3. レアアースの供給途絶、日本のGDPを1.8%押し下げ　生産網を考慮した推計（https://taro-ifw.github.io/econ-news-articles/2026-11-14/3.html）　種類：記事／分野：地経学／出典：VoxEU
+- 4. 人民元は約2割過小評価、貿易黒字拡大の要因に　PIIEが分析（https://taro-ifw.github.io/econ-news-articles/2026-11-14/4.html）　種類：記事／分野：国際金融／出典：PIIE RealTime Economics
+- 5. グローバル化の最前線は工場からオフィスへ　Baldwin氏、米国中心の構図を指摘（https://taro-ifw.github.io/econ-news-articles/2026-11-14/5.html）　種類：記事／分野：貿易／出典：VoxEU
+
 ## 2026-11-13
 - 1. 道路の改良で地方自治体の税収が倍以上に　ルワンダで12年分の行政記録を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-13/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 気候災害で高まる国の債務不履行リスク　援助で適応力を高める予算の目安を提示（https://taro-ifw.github.io/econ-news-articles/2026-11-13/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
