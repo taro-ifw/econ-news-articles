@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-15
+- 1. 太平洋島しょ国の気候適応資金、必要額に大きく届かず　IMFが地域全体を初めて推計（https://taro-ifw.github.io/econ-news-articles/2026-11-15/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
+- 2. 途上国の債務救済、現行の枠組みは目的に合わない　Malpass氏が通貨と債務の改革を提言（https://taro-ifw.github.io/econ-news-articles/2026-11-15/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
+- 3. メキシコの干ばつ、北部で頻繁かつ深刻　OECDが衛星データで州ごとに測定（https://taro-ifw.github.io/econ-news-articles/2026-11-15/3.html）　種類：記事／分野：開発／出典：OECD Economics Department Working Papers
+- 4. 炭素排出量に基づく輸入規制、税関手続きに新たな負担　OECDがデータ連携の課題を整理（https://taro-ifw.github.io/econ-news-articles/2026-11-15/4.html）　種類：記事／分野：貿易／出典：OECD Trade Policy Papers
+- 5. ブラジルの現金給付、母親の正規雇用を後押し　教育サービスが充実した地域で効果大（https://taro-ifw.github.io/econ-news-articles/2026-11-15/5.html）　種類：記事／分野：開発／出典：VoxDev
+
 ## 2026-11-14
 - 1. アフリカの行政改革、成果主義の施策で完全実施は4割　世界銀行の事業を検証（https://taro-ifw.github.io/econ-news-articles/2026-11-14/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 低所得国の債務危機の予測、単純な統計モデルが機械学習を上回る　世界銀行（https://taro-ifw.github.io/econ-news-articles/2026-11-14/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
