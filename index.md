@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-16
+- 1. 戦争の生産損失、金融危機や大災害を上回る　戦後の回復は労働頼みで緩慢　IMF（https://taro-ifw.github.io/econ-news-articles/2026-11-16/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
+- 2. 途上国向け民間融資、公開市場並みの収益　脆弱国でも見劣りせず　IFCの4109件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-16/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
+- 3. 中央銀行の外貨準備、通貨選びに地政学や同盟関係も影響か　149カ国の新データベース（https://taro-ifw.github.io/econ-news-articles/2026-11-16/3.html）　種類：記事／分野：国際金融／出典：VoxEU
+- 4. 海外送金の高い手数料、為替リスクが上乗せ分と同程度押し上げ　339経路を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-16/4.html）　種類：記事／分野：国際金融／出典：VoxEU
+- 5. 物流の詰まり、船不足なら運賃急騰　港の不足には政府の介入が必要も　海運の混乱を比較（https://taro-ifw.github.io/econ-news-articles/2026-11-16/5.html）　種類：記事／分野：貿易／出典：VoxEU
+
 ## 2026-11-15
 - 1. 太平洋島しょ国の気候適応資金、必要額に大きく届かず　IMFが地域全体を初めて推計（https://taro-ifw.github.io/econ-news-articles/2026-11-15/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
 - 2. 途上国の債務救済、現行の枠組みは目的に合わない　Malpass氏が通貨と債務の改革を提言（https://taro-ifw.github.io/econ-news-articles/2026-11-15/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
