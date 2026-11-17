@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-17
+- 1. 洪水や干ばつ、成長率を押し下げ2年後も回復せず　IMFが196カ国の災害データを分析（https://taro-ifw.github.io/econ-news-articles/2026-11-17/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
+- 2. 途上国のインフラ融資、リスクの高い国で銀行が後退し公的機関が穴埋め　バーゼル3の時期と重なる（https://taro-ifw.github.io/econ-news-articles/2026-11-17/2.html）　種類：論文／分野：国際金融／出典：CEPR Discussion Papers
+- 3. 海外送金の手数料、受取国の通貨リスクが事業者の利幅と同程度押し上げ　339ルートを分析（https://taro-ifw.github.io/econ-news-articles/2026-11-17/3.html）　種類：記事／分野：開発／出典：VoxDev
+- 4. トランプ関税の撤廃、議会の新多数派でも拒否権の壁　今後2年は膠着の公算とPIIE（https://taro-ifw.github.io/econ-news-articles/2026-11-17/4.html）　種類：記事／分野：貿易／出典：PIIE RealTime Economics
+- 5. 森林管理計画の承認で伐採地の森林消失がほぼ半減　コンゴ盆地5カ国の伐採権区域（https://taro-ifw.github.io/econ-news-articles/2026-11-17/5.html）　種類：記事／分野：開発／出典：VoxDev
+
 ## 2026-11-16
 - 1. 戦争の生産損失、金融危機や大災害を上回る　戦後の回復は労働頼みで緩慢　IMF（https://taro-ifw.github.io/econ-news-articles/2026-11-16/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
 - 2. 途上国向け民間融資、公開市場並みの収益　脆弱国でも見劣りせず　IFCの4109件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-16/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
