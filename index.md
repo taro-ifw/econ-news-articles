@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-18
+- 1. 金融の深化が進むほど税収は増える関係　インドネシアを分析　世界銀行（https://taro-ifw.github.io/econ-news-articles/2026-11-18/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 初の国際債発行後、フロンティア経済は財政が緩み債務が増加　IMFが分析（https://taro-ifw.github.io/econ-news-articles/2026-11-18/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. EU企業、貿易の途絶は長引くとみて調達先を分散　備蓄から長期の対応へ（https://taro-ifw.github.io/econ-news-articles/2026-11-18/3.html）　種類：記事／分野：貿易／出典：VoxEU
+- 4. 気候変動への適応は将来の財政負担を減らす　Peppel-Srebrny氏、国のバランスシートで評価を（https://taro-ifw.github.io/econ-news-articles/2026-11-18/4.html）　種類：記事／分野：開発／出典：VoxEU
+- 5. RCEPの短期効果は限定的　非関税障壁の削減で2040年に域内GDP1.5%増　RIETI（https://taro-ifw.github.io/econ-news-articles/2026-11-18/5.html）　種類：記事／分野：貿易／出典：RIETI Discussion Papers
+
 ## 2026-11-17
 - 1. 洪水や干ばつ、成長率を押し下げ2年後も回復せず　IMFが196カ国の災害データを分析（https://taro-ifw.github.io/econ-news-articles/2026-11-17/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
 - 2. 途上国のインフラ融資、リスクの高い国で銀行が後退し公的機関が穴埋め　バーゼル3の時期と重なる（https://taro-ifw.github.io/econ-news-articles/2026-11-17/2.html）　種類：論文／分野：国際金融／出典：CEPR Discussion Papers
