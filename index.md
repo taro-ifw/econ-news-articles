@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-19
+- 1. アフリカの全世帯への電力供給、無償資金に恒久的に頼らず実現可能　世銀論文（https://taro-ifw.github.io/econ-news-articles/2026-11-19/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 低所得国の公的債務、安定した推移の目安を他国の歴史から導く　IMF論文（https://taro-ifw.github.io/econ-news-articles/2026-11-19/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 貧困国の内戦、資源価格の変動と反政府勢力の統治が左右　VoxDev（https://taro-ifw.github.io/econ-news-articles/2026-11-19/3.html）　種類：記事／分野：開発／出典：VoxDev
+- 4. 西アフリカの干ばつと移住、灌漑が定住を支えるのは長期の干ばつで富裕層のみ（https://taro-ifw.github.io/econ-news-articles/2026-11-19/4.html）　種類：記事／分野：開発／出典：VoxDev
+- 5. 公共調達は技術革新を促すが条件付き　欧州の域内企業優遇に慎重な設計を求める（https://taro-ifw.github.io/econ-news-articles/2026-11-19/5.html）　種類：記事／分野：地経学／出典：VoxEU
+
 ## 2026-11-18
 - 1. 金融の深化が進むほど税収は増える関係　インドネシアを分析　世界銀行（https://taro-ifw.github.io/econ-news-articles/2026-11-18/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 初の国際債発行後、フロンティア経済は財政が緩み債務が増加　IMFが分析（https://taro-ifw.github.io/econ-news-articles/2026-11-18/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
