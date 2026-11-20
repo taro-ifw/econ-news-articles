@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-20
+- 1. 成果に応じた自治体への補助金、マリで住民の満足度と信頼を高める　世界銀行（https://taro-ifw.github.io/econ-news-articles/2026-11-20/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 世銀の小国基準150万人、経済指標に境目なし　人口推計の見直しで分類変更も（https://taro-ifw.github.io/econ-news-articles/2026-11-20/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
+- 3. 開発機関のRCT、厳しい運営管理と十分な標本が条件　事業拡大と並行した実施を推奨（https://taro-ifw.github.io/econ-news-articles/2026-11-20/3.html）　種類：記事／分野：開発／出典：VoxDev
+- 4. パートナーからの暴力、女性の調査員により多く報告　バングラデシュの事業評価に差（https://taro-ifw.github.io/econ-news-articles/2026-11-20/4.html）　種類：記事／分野：開発／出典：VoxDev
+- 5. 工業化を経ない途上国の成長、恩恵は都市の富裕層に偏る　サービス業の生産性を推計（https://taro-ifw.github.io/econ-news-articles/2026-11-20/5.html）　種類：記事／分野：開発／出典：VoxDev
+
 ## 2026-11-19
 - 1. アフリカの全世帯への電力供給、無償資金に恒久的に頼らず実現可能　世銀論文（https://taro-ifw.github.io/econ-news-articles/2026-11-19/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 低所得国の公的債務、安定した推移の目安を他国の歴史から導く　IMF論文（https://taro-ifw.github.io/econ-news-articles/2026-11-19/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
