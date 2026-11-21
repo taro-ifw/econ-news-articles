@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-21
+- 1. IMF支援国の税収予測、楽観に偏る要因を特定　税制措置の効果の過大評価が主因（https://taro-ifw.github.io/econ-news-articles/2026-11-21/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
+- 2. 低所得国への民間資金、ドル高で流入細る　世界金融危機後に国際金融サイクルが主な要因に　IMF（https://taro-ifw.github.io/econ-news-articles/2026-11-21/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 輸出規制、同盟国と協調すれば効果5.7倍　市民の負担は単独と同程度　米国の分析（https://taro-ifw.github.io/econ-news-articles/2026-11-21/3.html）　種類：記事／分野：地経学／出典：VoxEU
+- 4. 村の役人の給与をほぼ倍増、離職は減るも汚職は減らず　インドの研究（https://taro-ifw.github.io/econ-news-articles/2026-11-21/4.html）　種類：記事／分野：開発／出典：VoxDev
+- 5. コロンビア、財政赤字はGDP比7%超が続く見通し　信認回復へ財政再建と生産性向上を　OECD（https://taro-ifw.github.io/econ-news-articles/2026-11-21/5.html）　種類：記事／分野：開発／出典：OECD ECOSCOPE
+
 ## 2026-11-20
 - 1. 成果に応じた自治体への補助金、マリで住民の満足度と信頼を高める　世界銀行（https://taro-ifw.github.io/econ-news-articles/2026-11-20/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 世銀の小国基準150万人、経済指標に境目なし　人口推計の見直しで分類変更も（https://taro-ifw.github.io/econ-news-articles/2026-11-20/2.html）　種類：論文／分野：国際金融／出典：World Bank Policy Research Working Papers
