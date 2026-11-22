@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-22
+- 1. 舗装道路の整備、マリの遠隔地で農業以外の雇用を拡大　都市近郊は人口増のみ（https://taro-ifw.github.io/econ-news-articles/2026-11-22/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
+- 2. 新興・低所得国の銀行、政府への依存がコロナ後に強まる　債務再編で資本不足の恐れ（https://taro-ifw.github.io/econ-news-articles/2026-11-22/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 中国EVの米国生産、条件付きで容認を検討すべき　PIIEのWolff氏（https://taro-ifw.github.io/econ-news-articles/2026-11-22/3.html）　種類：記事／分野：地経学／出典：PIIE Policy Briefs
+- 4. トランプ関税、企業内輸出の日本企業に最大の打撃　大企業は米国での現地生産で対応（https://taro-ifw.github.io/econ-news-articles/2026-11-22/4.html）　種類：記事／分野：貿易／出典：RIETI Discussion Papers
+- 5. インドの製造業で小規模企業に雇用が集中　安価な低品質品を求める需要が一因（https://taro-ifw.github.io/econ-news-articles/2026-11-22/5.html）　種類：記事／分野：開発／出典：VoxDev
+
 ## 2026-11-21
 - 1. IMF支援国の税収予測、楽観に偏る要因を特定　税制措置の効果の過大評価が主因（https://taro-ifw.github.io/econ-news-articles/2026-11-21/1.html）　種類：論文／分野：開発／出典：IMF Working Papers
 - 2. 低所得国への民間資金、ドル高で流入細る　世界金融危機後に国際金融サイクルが主な要因に　IMF（https://taro-ifw.github.io/econ-news-articles/2026-11-21/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
