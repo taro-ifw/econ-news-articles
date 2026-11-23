@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-23
+- 1. 対外援助は「なぜ」と「どう行うか」を分けて考えるべき　Karlan氏、証拠の活用を重視（https://taro-ifw.github.io/econ-news-articles/2026-11-23/1.html）　種類：論文／分野：開発／出典：Journal of Economic Perspectives
+- 2. IMFへの返済、2001年以降は長期延滞なし　改善の多くは借り手の国の要因で説明できず（https://taro-ifw.github.io/econ-news-articles/2026-11-23/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
+- 3. 142カ国の財政措置を大規模言語モデルで分類した新データ　大半は小規模な歳出拡大（https://taro-ifw.github.io/econ-news-articles/2026-11-23/3.html）　種類：記事／分野：開発／出典：VoxEU
+- 4. 複雑な部品と大手の取引先を持つ供給網、インドのロックダウンでも維持　VoxDev（https://taro-ifw.github.io/econ-news-articles/2026-11-23/4.html）　種類：記事／分野：貿易／出典：VoxDev
+- 5. 米国の農産物関税、2025年1月の2倍に　コーヒーは対象外、食肉や飲料に課税　CEPII（https://taro-ifw.github.io/econ-news-articles/2026-11-23/5.html）　種類：記事／分野：貿易／出典：Le Blog du CEPII
+
 ## 2026-11-22
 - 1. 舗装道路の整備、マリの遠隔地で農業以外の雇用を拡大　都市近郊は人口増のみ（https://taro-ifw.github.io/econ-news-articles/2026-11-22/1.html）　種類：論文／分野：開発／出典：World Bank Policy Research Working Papers
 - 2. 新興・低所得国の銀行、政府への依存がコロナ後に強まる　債務再編で資本不足の恐れ（https://taro-ifw.github.io/econ-news-articles/2026-11-22/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
