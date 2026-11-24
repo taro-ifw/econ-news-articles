@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-24
+- 1. 援助の打ち切り、届ける力の維持を考慮すべき　Deserranno氏らが研究を整理（https://taro-ifw.github.io/econ-news-articles/2026-11-24/1.html）　種類：論文／分野：開発／出典：CEPR Discussion Papers
+- 2. レアアース供給80%減なら日本のGDP1.8%減　IMF研究、長期では損失は小さく（https://taro-ifw.github.io/econ-news-articles/2026-11-24/2.html）　種類：論文／分野：地経学／出典：IMF Working Papers
+- 3. 新興欧州の防衛産業、非効率な国有企業と育たない新興企業　ドローンは中国依存　EBRD（https://taro-ifw.github.io/econ-news-articles/2026-11-24/3.html）　種類：記事／分野：地経学／出典：VoxEU
+- 4. 中国は所得税の拡充で消費を促すべき　PIIEのブログ、個人所得税はGDPの1.2%どまりと指摘（https://taro-ifw.github.io/econ-news-articles/2026-11-24/4.html）　種類：記事／分野：貿易／出典：PIIE RealTime Economics
+- 5. 家族で初の大卒となる学生への支援、技術系の学位取得と就業を改善　インド（https://taro-ifw.github.io/econ-news-articles/2026-11-24/5.html）　種類：記事／分野：開発／出典：VoxDev
+
 ## 2026-11-23
 - 1. 対外援助は「なぜ」と「どう行うか」を分けて考えるべき　Karlan氏、証拠の活用を重視（https://taro-ifw.github.io/econ-news-articles/2026-11-23/1.html）　種類：論文／分野：開発／出典：Journal of Economic Perspectives
 - 2. IMFへの返済、2001年以降は長期延滞なし　改善の多くは借り手の国の要因で説明できず（https://taro-ifw.github.io/econ-news-articles/2026-11-23/2.html）　種類：論文／分野：国際金融／出典：IMF Working Papers
