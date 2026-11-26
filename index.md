@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-26
+- 1. 対外援助の削減、住民にサービスを届ける体制の維持に配慮を　Deserranno氏ら（https://taro-ifw.github.io/econ-news-articles/2026-11-26/1.html）　種類：論文／分野：開発／出典：CEPR Discussion Papers
+- 2. レアアース供給80%減なら日本のGDP1.8%減　短期の試算、長期では損失わずか　IMF（https://taro-ifw.github.io/econ-news-articles/2026-11-26/2.html）　種類：論文／分野：地経学／出典：IMF Working Papers
+- 3. 最貧困層の自立支援、政府の大規模展開でもNGOの試行並みの効果　インド・ビハール州（https://taro-ifw.github.io/econ-news-articles/2026-11-26/3.html）　種類：記事／分野：開発／出典：VoxDev
+- 4. インドネシア、世界の労働力の3.8%も製造業輸出は0.7%　輸出規制の段階的廃止を　OECD（https://taro-ifw.github.io/econ-news-articles/2026-11-26/4.html）　種類：記事／分野：貿易／出典：OECD ECOSCOPE
+- 5. 産油国の貿易黒字、政府系ファンドで石油収入を外国資産に蓄えた国だけで持続　PIIE（https://taro-ifw.github.io/econ-news-articles/2026-11-26/5.html）　種類：記事／分野：国際金融／出典：PIIE RealTime Economics
+
 ## 2026-11-25
 - 1. 難民キャンプ周辺の経済成長、人道援助が後押し　感染症など負担も　バングラデシュ（https://taro-ifw.github.io/econ-news-articles/2026-11-25/1.html）　種類：論文／分野：開発／出典：World Development
 - 2. 人民元取引の広がり、中国との銀行のつながりが主因　BISの2025年調査を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-25/2.html）　種類：論文／分野：地経学／出典：BIS Working Papers
