@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-27
+- 1. デジタル決済の人道支援、アフガニスタンで食料事情を改善　横流しは確認されず（https://taro-ifw.github.io/econ-news-articles/2026-11-27/1.html）　種類：論文／分野：開発／出典：CEPR Discussion Papers
+- 2. 戦争や金融危機の際は国家が国際融資の担い手に　1790年以降の120万件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-27/2.html）　種類：論文／分野：国際金融／出典：CEPR Discussion Papers
+- 3. 開発協力は慈善でなく互恵で　Heidland氏ら、援助国と受入国の利害一致を提案（https://taro-ifw.github.io/econ-news-articles/2026-11-27/3.html）　種類：記事／分野：開発／出典：Kiel Reports
+- 4. ドイツのウクライナ支援、二国間で最大420億ユーロ　Kiel「1000億」は誤解（https://taro-ifw.github.io/econ-news-articles/2026-11-27/4.html）　種類：記事／分野：地経学／出典：Kiel Policy Briefs
+- 5. 揺らぐ国際秩序、開発協力の役割は　IDOSが14本の論考で3つのシナリオを検討（https://taro-ifw.github.io/econ-news-articles/2026-11-27/5.html）　種類：記事／分野：開発／出典：IDOS Discussion Papers
+
 ## 2026-11-26
 - 1. 対外援助の削減、住民にサービスを届ける体制の維持に配慮を　Deserranno氏ら（https://taro-ifw.github.io/econ-news-articles/2026-11-26/1.html）　種類：論文／分野：開発／出典：CEPR Discussion Papers
 - 2. レアアース供給80%減なら日本のGDP1.8%減　短期の試算、長期では損失わずか　IMF（https://taro-ifw.github.io/econ-news-articles/2026-11-26/2.html）　種類：論文／分野：地経学／出典：IMF Working Papers
