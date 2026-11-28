@@ -2,6 +2,13 @@
 
 日付ごとの全文は YYYY-MM-DD/articles.md にある。
 
+## 2026-11-28
+- 1. アフリカの零細鉱山、衛星画像で50,000カ所超を特定　鉱物価格に素早く反応（https://taro-ifw.github.io/econ-news-articles/2026-11-28/1.html）　種類：論文／分野：開発／出典：CEPR Discussion Papers
+- 2. 開発金融の民間資金の動員、市場のゆがみが深刻なほど効果は小さく　Panizza氏（https://taro-ifw.github.io/econ-news-articles/2026-11-28/2.html）　種類：論文／分野：国際金融／出典：CEPR Discussion Papers
+- 3. 中国の輸出攻勢、途上国の工業化の機会を狭める　PIIEの論文（https://taro-ifw.github.io/econ-news-articles/2026-11-28/3.html）　種類：記事／分野：地経学／出典：PIIE Working Papers
+- 4. 中国の経済的威圧、解除後は日本以外で対中輸出が回復　IDE-JETRO（https://taro-ifw.github.io/econ-news-articles/2026-11-28/4.html）　種類：記事／分野：地経学／出典：IDE-JETRO Discussion Papers
+- 5. 欧州はドル建てステーブルコインの凍結機能を監査すべき　Perugini氏（https://taro-ifw.github.io/econ-news-articles/2026-11-28/5.html）　種類：記事／分野：地経学／出典：VoxEU
+
 ## 2026-11-27
 - 1. デジタル決済の人道支援、アフガニスタンで食料事情を改善　横流しは確認されず（https://taro-ifw.github.io/econ-news-articles/2026-11-27/1.html）　種類：論文／分野：開発／出典：CEPR Discussion Papers
 - 2. 戦争や金融危機の際は国家が国際融資の担い手に　1790年以降の120万件を分析（https://taro-ifw.github.io/econ-news-articles/2026-11-27/2.html）　種類：論文／分野：国際金融／出典：CEPR Discussion Papers
